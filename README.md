@@ -1,2 +1,5 @@
 # learning_notes
-Work report, tutorial, et al.
+Work report, tutorial
+dd
+dd
+, et al.

@@ -1,5 +1,6 @@
 # learning_notes
-Work report, tutorial
-dd
-dd
-, et al.
+## Work report
+- 20200802
+- 20200809
+## learning DeepMD
+test
